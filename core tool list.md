@@ -8,6 +8,8 @@
 		- html
 		- svg? 其他可视化
 
+- try update
+
 
 - 轻量和通用版本的 R&D-agent, 
 	- 环境（镜像）？
@@ -16,8 +18,6 @@
 
 - 用于快速读文献+分析的 workflow:
 	- cool paper? 剧场式演绎？
-	- 生成流程图+ dataset? 
-
 - 自建的资料库+ RAG 
 
 - 用于快速可视化和图片处理 的 workflow
