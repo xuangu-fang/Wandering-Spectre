@@ -117,21 +117,3 @@ BaconFun 项目：阅读 两篇确实相关文献，构思加实验？新的方
 diffusion <-> latent  structure / tensor -> check latent space diffusion 新进展
 
 
-2023 spring
-
-1.  Neurips 
-       - Bacon-TT -保底
-       - Bacon-PC-work with Xin
-       - Multi-Fied + SB ? (ask Wei?)
-2.  ICML Ai4Science workshop
-       - climate/physical data + dynamic tensor   
-3.  summer plan:
-    1.  ICDM - no 
-           - group sparse + TS ?
-           - group sparse + adaptive tensor rank ?   
-  
-    2.  ICRL (multi-prob-ts-imputation)
-           - task setting: done
-           - model formulation: todo, use SS-GP 
-           - verify 
-

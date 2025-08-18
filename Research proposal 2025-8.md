@@ -24,7 +24,8 @@
 
 - Generative model in Freq. Domain + low-rank:
 	- 短时傅里叶变换得到的矩阵有 low-rank 性质吗
-	- 频域中的特征能做类似 
+	- 频域中的特征能做 embedding / tokenlize, 进而用AR/diffusion 学吗？
+	- 能否把 RoPE 类似的机制用在频域中
 
 ## 2. 物理信号表征类（low-rank tensor as infra）:
 
